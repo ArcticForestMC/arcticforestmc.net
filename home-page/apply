@@ -1,0 +1,26 @@
+<DOCTYPEhtml!>
+<style>
+    body {
+  height: 100%;
+}
+.bg { 
+    /* The image used */
+    background-image: url("http://i.imgur.com/AOkCD.png");
+
+    /* Full height */
+    height: 872px; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+</style>
+<html>
+    <body class="bg">
+        <div>
+            
+        </div>
+    </body>
+</html>
