@@ -1,2 +1,2 @@
-# arcticforestmc.net
+# ArcticForestMC.net
 Minecraft Server Website
